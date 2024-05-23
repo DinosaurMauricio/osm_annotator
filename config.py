@@ -1,0 +1,3 @@
+OPENAI_API_KEY = "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"
+
+MAPBOX_ACCESS_TOKEN = 'pk.eyJ1IjoicmljY2FyZG85Njk2IiwiYSI6ImNsdDhkcGwyYzAyeWIybW1zczdmdjkxMDYifQ._mIa1IsbWaPPE7ZaT1l-0A'

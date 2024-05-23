@@ -1,0 +1,9 @@
+__pycache__/*
+images_to_annotate/*
+images_to_annotate_automatic/*
+tiles_intersected/*
+.vscode/*
+images_to_annotate_osm.rar
+export_annotations.ipynb
+correspondece_tag_location.json
+annotations.json
